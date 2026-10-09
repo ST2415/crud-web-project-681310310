@@ -40,8 +40,8 @@ crud-web-project/
 1. Clone Repository นี้ลงเครื่อง:
 
    ```bash
-   git clone [https://github.com/ST2415/crud-web-project.git](https://github.com/ST2415/crud-web-project.git)
-   cd crud-web-project
+   git clone [https://github.com/ST2415/crud-web-project-681310310.git](https://github.com/ST2415/crud-web-project.git)
+   cd crud-web-project-681310310
    ```
 
 2. สั่งสร้างและเปิดทำงาน Docker Containers:
